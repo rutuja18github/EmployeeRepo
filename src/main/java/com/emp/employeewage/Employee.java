@@ -9,6 +9,9 @@ public class Employee {
 	int empRatePerHr = 20;
 	final int fullTime = 1;
 	final int partTime = 2;
+	int numOfWorkingDays=20;
+	int totalSalary=0;
+	int totalWorkingDays=0;
 	Random random = new Random();
 
 	public boolean empAttendance() {
@@ -41,5 +44,14 @@ public class Employee {
 		salary = empRatePerHr * empHrs;
 		System.out.println("Employee's One Day Salary is :" +salary);
 		return salary;
+	}
+	
+	public int montlyWage() {
+		while(totalWorkingDays < numOfWorkingDays){
+			  totalWorkingDays++;
+		      totalSalary=totalSalary+dailyEmpWage();
+	    }
+		return totalSalary;
+		
 	}
 }
