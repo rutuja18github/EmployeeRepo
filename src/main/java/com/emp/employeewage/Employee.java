@@ -12,6 +12,9 @@ public class Employee {
 	int numOfWorkingDays=20;
 	int totalSalary=0;
 	int totalWorkingDays=0;
+	int totalHrsInMonth=100;
+	int totalEmpHr=0;
+	
 	Random random = new Random();
 
 	public boolean empAttendance() {
@@ -47,10 +50,12 @@ public class Employee {
 	}
 	
 	public int montlyWage() {
-		while(totalWorkingDays < numOfWorkingDays){
+		while(totalEmpHr < totalHrsInMonth && totalWorkingDays < numOfWorkingDays ){
 			  totalWorkingDays++;
 		      totalSalary=totalSalary+dailyEmpWage();
+		      totalEmpHr=totalEmpHr+empHrs;
 	    }
+		System.out.println("Total Hours of Employee In Month :"+totalEmpHr);
 		return totalSalary;
 		
 	}
