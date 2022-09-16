@@ -39,6 +39,7 @@ public class Employee {
 			empHrs = 0;
 		}
 		salary = empRatePerHr * empHrs;
+		System.out.println("Employee's One Day Salary is :" +salary);
 		return salary;
 	}
 }
