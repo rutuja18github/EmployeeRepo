@@ -7,7 +7,9 @@ public class Employee {
 	int empHrs;
 	int salary;
 	int empRatePerHr = 20;
-	
+	final int partTime = 1;
+	final int fullTime = 2;
+
 	Random random = new Random();
 
 	public boolean empAttendance() {
@@ -21,8 +23,19 @@ public class Employee {
 	}
 
 	public int dailyEmpWage() {
+		int empType = random.nextInt(2) + 1;
 		if (empAttendance()) {
-			empHrs = 8;
+			switch (empType) {
+			case partTime:
+				System.out.println("Employee is Part Time");
+				empHrs = 4;
+				break;
+
+			case fullTime:
+				empHrs = 8;
+				System.out.println("Employee is Full Time");
+				break;
+			}
 		} else {
 			empHrs = 0;
 		}
