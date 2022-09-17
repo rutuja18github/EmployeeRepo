@@ -1,0 +1,54 @@
+INFO  | 2022-09-17 09:35:34 | [main] employeewage.App (App.java:16) - Good Morning!
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.App (App.java:15) - Welcome to Employee Wage Computation Program
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:40) - Employee is PartTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :80
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:40) - Employee is PartTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :80
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:40) - Employee is PartTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :80
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:30) - Employee is Absent
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :0
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:40) - Employee is PartTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :80
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:46) - Employee is FullTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :160
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:46) - Employee is FullTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :160
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:46) - Employee is FullTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :160
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:46) - Employee is FullTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :160
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:40) - Employee is PartTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :80
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:28) - Employee is Present
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:40) - Employee is PartTime
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:53) - Employee's One Day Salary is :80
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.Employee (Employee.java:63) - Total Hours of Employee In Month :56
+INFO  | 2022-09-17 09:44:07 | [main] employeewage.App (App.java:17) - Employee's Salary for Month is : 1120

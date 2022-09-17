@@ -1,16 +1,20 @@
 package com.emp.employeewage;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 /**
  * Hello world!
  *
  */
 public class App {
+	private static final Logger logger = LogManager.getLogger(App.class);
+	
 	public static void main(String[] args) {
 		
-		System.out.println("Welcome to Employee Wage Computation Program");
-		
+		logger.info("Welcome to Employee Wage Computation Program");		 
 		Employee emp=new Employee();
-		System.out.println("Employee's Salary for Month is : "+emp.montlyWage());
+		logger.info("Employee's Salary for Month is : "+emp.montlyWage());
 	}
 	
 }
